@@ -12,4 +12,4 @@ One significant advantage of quantum machine learning is its potential to handle
 
 However, it's important to note that quantum machine learning for earth observation is still in its early stages, and practical implementations face significant challenges such as the current limitations of quantum hardware, noise in quantum systems, and the need for specialized expertise in both quantum computing and machine learning. Nonetheless, ongoing research and advancements in both quantum computing and machine learning are driving progress in this exciting field, holding promise for more efficient and accurate analysis of Earth observation data in the future.
 
-[**QML4EO Paper Collection**](qml4eo-papers.md)
+[**QML4EO Paper Collection**](qml4eo/papers/qml4eo-papers.md)
