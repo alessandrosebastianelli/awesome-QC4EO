@@ -1,4 +1,5 @@
 # 2024
+
 APA                                                                                                                                                                                                                               |Original Link                                                 |arXiv or similar                                                       
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------
 Mauro, F., Sebastianelli, A., Saux, B. L., Gamba, P., & Ullo, S. L. (2024). A Hybrid MLP-Quantum approach in Graph Convolutional Neural Networks for Oceanic Nino Index (ONI) prediction. arXiv preprint arXiv:2401.16049.        |[link]()                                                      |[link](https://arxiv.org/abs/2401.16049)                               
