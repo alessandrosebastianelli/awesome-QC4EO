@@ -86,7 +86,6 @@ Shaik, R. U., Unni, A., & Zeng, W. (2022). Quantum based pseudo-labelling for hy
 
 # 2021
 
-
 APA                                                                                                                                                                                                                                                                                                            |Original Link                                                             |arXiv or similar                                                                   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------
 Zaidenberg, D. A., Sebastianelli, A., Spiller, D., Le Saux, B., & Ullo, S. L. (2021, July). Advantages and bottlenecks of quantum machine learning for remote sensing. In 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS (pp. 5680-5683). IEEE.|[link](https://ieeexplore.ieee.org/abstract/document/9553133)|[link](https://arxiv.org/abs/2101.10657)
